@@ -92,7 +92,7 @@ def get_data(ticker):
     return data
 
 def get_watchlist():
-    filename = DATAFILE_PATH + "watchlist.dat"
+    filename = "watchlist.dat"
     
     # Using readlines()
     file1 = open(filename, 'r')
