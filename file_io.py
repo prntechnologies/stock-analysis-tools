@@ -102,8 +102,8 @@ def get_data(ticker):
     if data.size > 0:
         data.to_csv(fn, index=True)
         
-        print(data.head())
-        print(data.tail())
+#        print(data.head())
+#        print(data.tail())
         
     return data
 

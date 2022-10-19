@@ -11,6 +11,12 @@ Numpy is a package  for scienctific computing with Python
 sudo apt-get install python3-numpy
 ```
 
+PyQt5
+A comprehensive set of Python bindings for Qt version 5
+```bash
+sudo-apt-get install python3-pyqt5
+```
+
 SciPy
 SciPy provides algorithms for optimization, integration, statistics and many
 other math tools in Python
