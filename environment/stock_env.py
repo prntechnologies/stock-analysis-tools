@@ -20,6 +20,11 @@ You should have received a copy of the GNU General Public License along with
 the Stock Analysis Toolset.  If not, see <https://www.gnu.org/licenses/>.
 """
 
+""" Acknowledgements:
+    This environment was developed using a fork from notadam and his 
+    Stock-Trading-Environment source code.
+    https://github.com/notadamking/Stock-Trading-Environment"""
+
 import gym
 from gym import spaces
 import pandas as pd
